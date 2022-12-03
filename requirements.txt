@@ -1,0 +1,5 @@
+flask==2.2.2
+SQLAlchemy==1.4.44
+mysqlclient==2.1.1
+matplotlib==3.6.2
+numpy==1.23.5
